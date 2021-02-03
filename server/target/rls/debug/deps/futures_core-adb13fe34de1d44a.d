@@ -1,0 +1,11 @@
+/home/ayeen/piaic/Quarter3/client-server/client-server/server/target/rls/debug/deps/futures_core-adb13fe34de1d44a.rmeta: /home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/lib.rs /home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/future.rs /home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/stream.rs /home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/mod.rs /home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/poll.rs /home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/mod.rs /home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/atomic_waker.rs
+
+/home/ayeen/piaic/Quarter3/client-server/client-server/server/target/rls/debug/deps/futures_core-adb13fe34de1d44a.d: /home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/lib.rs /home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/future.rs /home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/stream.rs /home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/mod.rs /home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/poll.rs /home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/mod.rs /home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/atomic_waker.rs
+
+/home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/lib.rs:
+/home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/future.rs:
+/home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/stream.rs:
+/home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/mod.rs:
+/home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/poll.rs:
+/home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/mod.rs:
+/home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.12/src/task/__internal/atomic_waker.rs:

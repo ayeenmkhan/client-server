@@ -1,0 +1,5 @@
+/home/ayeen/piaic/Quarter3/client-server/client-server/server/target/rls/debug/build/memchr-c5badca9bff70dc5/build_script_build-c5badca9bff70dc5: /home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/build.rs
+
+/home/ayeen/piaic/Quarter3/client-server/client-server/server/target/rls/debug/build/memchr-c5badca9bff70dc5/build_script_build-c5badca9bff70dc5.d: /home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/build.rs
+
+/home/ayeen/.cargo/registry/src/github.com-1ecc6299db9ec823/memchr-2.3.4/build.rs:
